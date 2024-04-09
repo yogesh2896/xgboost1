@@ -1,4 +1,3 @@
-!pip install xgboost
 def activate(c1,c2):
 
 # XGBoost Algorithm
