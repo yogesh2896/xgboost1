@@ -123,7 +123,7 @@ import streamlit as st
 st.title("Welcome to Dynamic Predictive Model by Enoah Isolution")
 c1=st.text_input('Enter the date column name')
 c2=st.text_input('Enter the target column name')
-url=st.file_uploader(label='Upload your data')
+url=st.file_uploader(label='Upload your data',type='csv')
 sdate=st.date_input(label='select start date')
 edate=st.date_input(label='select end date')
 
