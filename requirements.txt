@@ -6,3 +6,4 @@ pandas
 plotly
 scikit_learn
 streamlit
+seaborn
