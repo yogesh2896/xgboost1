@@ -1,2 +1,2 @@
 xgboost==1.0.2
-sklearn
+scikit-learn
